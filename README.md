@@ -23,12 +23,10 @@ Working with AWS, Terraform, Docker, CI/CD, and Kubernetes while documenting the
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Jawwad78"><img src="https://github-readme-stats.vercel.app/api?username=Jawwad78&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Jawwad78's GitHub stats" /></a>
+<a href="http://www.github.com/Jawwad78"><img src="https://github-readme-stats.vercel.app/api?username=Jawwad78&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="Jawwad78's GitHub stats" /></a>
 
-<a href="http://www.github.com/Jawwad78"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jawwad78&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Jawwad78" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawwad78&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Jawwad78" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawwad78&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Jawwad78/ECSV2-url-shortener" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jawwad78&repo=ECSV2-url-shortener&title_color=0891b2&text_color=ef4444&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Jawwad78/ecs-threatcomposerapp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jawwad78&repo=ecs-threatcomposerapp&title_color=0891b2&text_color=ef4444&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Jawwad78/ECSV2-url-shortener" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jawwad78&repo=ECSV2-url-shortener&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Jawwad78/ecs-threatcomposerapp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jawwad78&repo=ecs-threatcomposerapp&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
