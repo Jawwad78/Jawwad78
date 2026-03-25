@@ -40,8 +40,8 @@ Working with AWS, Terraform, Docker, CI/CD, and Kubernetes while documenting the
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jawwad78&show_icons=true&hide_border=true&bg_color=000000&text_color=ffffff&title_color=0891b2&icon_color=3382ed" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawwad78&layout=compact&langs_count=6&hide_border=true&bg_color=000000&text_color=ffffff&title_color=0891b2" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jawwad78&show_icons=true&hide_border=true&bg_color=000000&text_color=ffffff&title_color=0891b2&icon_color=3382ed" width="48%" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawwad78&layout=compact&langs_count=6&hide_border=true&bg_color=000000&text_color=ffffff&title_color=0891b2" width="48%" height="160" />
 </p>
 
 ### 📂 Featured Projects
