@@ -77,7 +77,7 @@ Enterprise style Kubernetes platform built on Amazon EKS implementing GitOps wor
 
 ---
 
-## 🔹 [Production Grade Blue Green ECS Platform](https://github.com/Jawwad78/ECSV2-url-shortener)
+## 🔹 [Production Grade Blue/Green ECS Platform](https://github.com/Jawwad78/ECSV2-url-shortener)
 
 Production grade container platform deployed on AWS ECS Fargate implementing blue green deployment strategies with automated CI/CD pipelines, secure networking architecture, private connectivity through VPC endpoints and scalable cloud infrastructure.
 
