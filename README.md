@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Jawwad Ahmad 👋</h1>
 
-<p align="center">
+<h3 align="center">
 Engineering production grade cloud infrastructure, Kubernetes platforms and automated CI/CD workflows on AWS.
-</p>
+</h3>
 
 ---
 
@@ -11,7 +11,7 @@ Engineering production grade cloud infrastructure, Kubernetes platforms and auto
 <p align="center">
 
 <a href="https://aws.amazon.com/">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" />
 </a>
 <a href="https://www.linux.org/">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
